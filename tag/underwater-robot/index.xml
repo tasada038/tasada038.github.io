@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Underwater-robot | t.asada</title>
+    <link>https://tasada038.github.io/tag/underwater-robot/</link>
+      <atom:link href="https://tasada038.github.io/tag/underwater-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Underwater-robot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tasada038.github.io/media/icon_hu88bb3a8e39e18edcd54fae158a90ede6_217848_512x512_fill_lanczos_center_3.png</url>
+      <title>Underwater-robot</title>
+      <link>https://tasada038.github.io/tag/underwater-robot/</link>
+    </image>
+    
+    <item>
+      <title>Underwater Robots Project</title>
+      <link>https://tasada038.github.io/projects/uw_robot/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/projects/uw_robot/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#uw_robot&#34;&gt;What is this Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;what-is-this-project&#34;&gt;What is this Project&lt;/h1&gt;
+&lt;p&gt;機械学科と電気学科の学部生・院生たちによる学生チャレンジプロジェクト。
+毎年開催される「水中ロボットコンベンション in JAMSTEC」、「沖縄海洋ロボットコンペティション」に向けて活動を行っています。&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

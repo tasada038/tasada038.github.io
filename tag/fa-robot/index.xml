@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fa-robot | t.asada</title>
+    <link>https://tasada038.github.io/tag/fa-robot/</link>
+      <atom:link href="https://tasada038.github.io/tag/fa-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>fa-robot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tasada038.github.io/media/icon_hu88bb3a8e39e18edcd54fae158a90ede6_217848_512x512_fill_lanczos_center_3.png</url>
+      <title>fa-robot</title>
+      <link>https://tasada038.github.io/tag/fa-robot/</link>
+    </image>
+    
+    <item>
+      <title>cobotta Project</title>
+      <link>https://tasada038.github.io/projects/fa_se/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/projects/fa_se/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#fa_robot&#34;&gt;What is this Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;what-is-this-project&#34;&gt;What is this Project&lt;/h1&gt;
+&lt;p&gt;ロボット研究ミュージアムのプロジェクトの一つで、機械学科と電気学科の学部生・院生たちと客員講師で食品加工をテーマに研究開発を行う。
+人と協働するアーム型ロボットを使用し、「日常の課題を解決する」をテーマにハッカソン形式でアイデア出しから、設計開発、イベントや展示会への出展や実運用を視野に入れ開発している。&lt;/p&gt;
+&lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
