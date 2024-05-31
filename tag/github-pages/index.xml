@@ -5,7 +5,7 @@
     <link>https://tasada038.github.io/tag/github-pages/</link>
       <atom:link href="https://tasada038.github.io/tag/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <description>GitHub Pages</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tasada038.github.io/media/icon_hu88bb3a8e39e18edcd54fae158a90ede6_217848_512x512_fill_lanczos_center_3.png</url>
       <title>GitHub Pages</title>
@@ -13,12 +13,14 @@
     </image>
     
     <item>
-      <title>starter-hugo-academic &#43; Github Pagesでwebsiteを作るチップス</title>
-      <link>https://tasada038.github.io/blog/2023/11/04/hugo_academic/</link>
-      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://tasada038.github.io/blog/2023/11/04/hugo_academic/</guid>
+      <title>How to use starter-hugo-academic and Github Pages?</title>
+      <link>https://tasada038.github.io/blog/2024/05/31/hugo_academic/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/blog/2024/05/31/hugo_academic/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#hugo&#34;&gt;How to create the original website?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#how-to-create-the-original-website&#34;&gt;How to create the original website?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#edit-website&#34;&gt;Edit Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#upload-github&#34;&gt;upload github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
@@ -41,6 +43,25 @@
 &lt;p&gt;2023/11/04、Ubuntu 22.04にて動作確認したところ、hugoコマンドにてERRORが生じたため、以下ReferencesのGithubを参考に&lt;code&gt;theme.toml&lt;/code&gt;、&lt;code&gt;netlify.toml&lt;/code&gt;、&lt;code&gt;go.*&lt;/code&gt;を修正し、必要不必要なフォルダを精査して作成します。&lt;/p&gt;
 &lt;p&gt;使用するライブラリ指定などがしっかりとできていれば&lt;code&gt;hugo&lt;/code&gt;コマンドが通るので&lt;code&gt;website&lt;/code&gt;ディレクトリ下で&lt;code&gt;hugo&lt;/code&gt;コマンドを実行しましょう。&lt;/p&gt;
 &lt;p&gt;すると、public下に必要なパッケージが自動生成されるはずです。そしたら&lt;code&gt;hugo server&lt;/code&gt;コマンドでwebsiteの出来を確認します。&lt;/p&gt;
+&lt;h1 id=&#34;edit-website&#34;&gt;Edit Website&lt;/h1&gt;
+&lt;p&gt;以下のディレクトリへ移動し、サーバーを起動します。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-sh:&#34;&gt;cd ~/website
+hugo server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;website/content&lt;/strong&gt;内のMarkdownを編集・追加することで記事の編集が可能になります。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Achivementsの編集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Achivementsの編集は /content/home下の.mdファイルにて追記する。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publicationsの編集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;/content/publication下へフォルダを追加し、その中の.mdファイルにて追記する。&lt;/p&gt;
+&lt;p&gt;編集完了後は以下を実行し、./publicへビルド生成物を出力します。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-sh:&#34;&gt;hugo
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;upload-github&#34;&gt;upload github&lt;/h1&gt;
+&lt;p&gt;GitHubへpushします。&lt;/p&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://qiita.com/junffy/items/3188671d02a771920fd7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo-academicでポートフォリオを作成する&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://r9y9.github.io/blog/2022/01/18/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic を使ってウェブサイトをアップデートしました&lt;/a&gt;&lt;/p&gt;
