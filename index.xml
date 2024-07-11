@@ -65,6 +65,10 @@ hugo server
 &lt;li&gt;Publicationsの編集&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;/content/publication下へフォルダを追加し、その中の.mdファイルにて追記する。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ヘッダーの編集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;/config/_default/menus.yaml を編集する。&lt;/p&gt;
 &lt;p&gt;編集完了後は以下を実行し、./publicへビルド生成物を出力します。&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-sh:&#34;&gt;hugo
 &lt;/code&gt;&lt;/pre&gt;
