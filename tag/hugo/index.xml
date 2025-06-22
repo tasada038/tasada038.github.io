@@ -66,6 +66,13 @@ hugo server
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h1 id=&#34;upload-github&#34;&gt;upload github&lt;/h1&gt;
 &lt;p&gt;GitHubへpushします。&lt;/p&gt;
+&lt;p&gt;publicがsubmoduleなので、先にサブモジュールをコミットしてからwebsiteをpushします。&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cd public/
+git add .
+git commit -m &amp;quot;update submodule&amp;quot;
+cd ..
+git add public/
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://qiita.com/junffy/items/3188671d02a771920fd7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo-academicでポートフォリオを作成する&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://r9y9.github.io/blog/2022/01/18/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic を使ってウェブサイトをアップデートしました&lt;/a&gt;&lt;/p&gt;

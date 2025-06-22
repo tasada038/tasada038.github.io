@@ -921,6 +921,13 @@ hugo server
 </code></pre>
 <h1 id="upload-github">upload github</h1>
 <p>GitHubへpushします。</p>
+<p>publicがsubmoduleなので、先にサブモジュールをコミットしてからwebsiteをpushします。</p>
+<pre><code class="language-sh">cd public/
+git add .
+git commit -m &quot;update submodule&quot;
+cd ..
+git add public/
+</code></pre>
 <h1 id="references">References</h1>
 <p><a href="https://qiita.com/junffy/items/3188671d02a771920fd7" target="_blank" rel="noopener">hugo-academicでポートフォリオを作成する</a></p>
 <p><a href="https://r9y9.github.io/blog/2022/01/18/hugo-academic/" target="_blank" rel="noopener">Hugo Academic を使ってウェブサイトをアップデートしました</a></p>
