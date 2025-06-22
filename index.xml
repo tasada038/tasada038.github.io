@@ -5,12 +5,28 @@
     <link>https://tasada038.github.io/</link>
       <atom:link href="https://tasada038.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>t.asada</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tasada038.github.io/media/icon_hu88bb3a8e39e18edcd54fae158a90ede6_217848_512x512_fill_lanczos_center_3.png</url>
       <title>t.asada</title>
       <link>https://tasada038.github.io/</link>
     </image>
+    
+    <item>
+      <title>Design and Control of Multi-Rigid Link Pectoral Fins Using Virtual Spring-Damper System for a Manta Ray Robot</title>
+      <link>https://tasada038.github.io/publication/access202504/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/publication/access202504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Multi-Finned Omni-Directional Mobile Underwater Robot</title>
+      <link>https://tasada038.github.io/publication/codit20241018/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/publication/codit20241018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development of a Manta Ray Robot with Underwater Walking Function</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | t.asada</title>
+    <link>https://tasada038.github.io/publication-type/1/</link>
+      <atom:link href="https://tasada038.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © Takumi Asada All rights reserved.</copyright><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tasada038.github.io/media/icon_hu88bb3a8e39e18edcd54fae158a90ede6_217848_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://tasada038.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Development of a Multi-Finned Omni-Directional Mobile Underwater Robot</title>
+      <link>https://tasada038.github.io/publication/codit20241018/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/publication/codit20241018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of an Exoskeleton type Manta Ray Robot</title>
+      <link>https://tasada038.github.io/publication/amam2023/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tasada038.github.io/publication/amam2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
