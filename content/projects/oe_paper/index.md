@@ -10,9 +10,9 @@ publication: "*Ocean Engineering*, 2024"
 publication_types: ["2"]
 
 paper_url: "https://www.sciencedirect.com/science/article/pii/S0029801824015993"
-arxiv_url: ""
-video_url: ""
-code_url: ""
+# arxiv_url: ""
+# video_url: ""
+# code_url: ""
 
 abstract: |
   ここにAbstractを貼る
