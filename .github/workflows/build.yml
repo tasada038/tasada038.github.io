@@ -27,6 +27,8 @@ concurrency:
 
 jobs:
   build:
+    # TODO Define the hugo version
+    hugo_version: 0.161.1
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     timeout-minutes: 10
