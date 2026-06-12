@@ -1,12 +1,27 @@
 ---
-title: Publications
-cms_exclude: true
+title: 'Publications'
+type: landing
+# cms_exclude: true
 
-# View.
-# view: citation
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: Selected publications
+      text: I enjoy making things. Here are a selection of publications that I have worked on over the years.
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+      filters:
+        folders:
+          - publications
+
+      count: 50
+      order: desc
+
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 ---

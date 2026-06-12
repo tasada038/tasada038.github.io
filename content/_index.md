@@ -33,41 +33,63 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a Ph.D. student at Utsunomiya University conducting research on biomimetic robotics, intelligent control, and autonomous underwater systems.
 
-        My research focuses on developing bio-inspired robots, including manta ray- and dolphin-inspired platforms, by integrating neural oscillators, motion control, reinforcement learning, and Sim2Real methodologies. I am particularly interested in bridging biological principles and robotics to create efficient and adaptive underwater locomotion.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am a Ph.D. student at Utsunomiya University conducting research on biomimetic robotics, intelligent control, and autonomous underwater systems.
 
-        My goal is to advance autonomous robotic systems that can operate robustly in complex real-world environments.
+  #       My research focuses on developing bio-inspired robots, including manta ray- and dolphin-inspired platforms, by integrating neural oscillators, motion control, reinforcement learning, and Sim2Real methodologies. I am particularly interested in bridging biological principles and robotics to create efficient and adaptive underwater locomotion.
 
-        I welcome opportunities for academic collaboration and interdisciplinary research. Please feel free to get in touch.
-    design:
-      columns: '1'
+  #       My goal is to advance autonomous robotic systems that can operate robustly in complex real-world environments.
+
+  #       I welcome opportunities for academic collaboration and interdisciplinary research. Please feel free to get in touch.
+  #   design:
+  #     columns: '1'
 
   - block: collection
-    # id: papers
+    id: papers
     content:
-      title: Featured Publications
+      title: Publications
+      text: ''
       filters:
         folders:
           - publications
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
+
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Projects
       text: ''
       filters:
         folders:
-          - publications
-        exclude_featured: false
+          - projects
     design:
-      view: citation
+      view: article-grid
+      columns: 3
+
+  - block: resume-experience
+    content:
+      title: Experience
+    design:
+      date_format: 'Jan 2006'
+      is_education: false
+
+
 ---
