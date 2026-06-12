@@ -2,7 +2,7 @@
 title: PyTorch
 date: 2023-10-26
 links:
-  - type: site
+  - name: Site
     url: https://github.com/pytorch/pytorch
 tags:
   - Hugo
