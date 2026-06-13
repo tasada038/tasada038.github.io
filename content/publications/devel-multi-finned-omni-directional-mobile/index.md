@@ -16,7 +16,12 @@ peer_reviewed: true
 open_access: false
 summary: A multi-finned omni-directional mobile underwater robot is developed, leveraging multiple fin-based actuators to achieve flexible omnidirectional locomotion in aquatic environments.
 tags:
-- Source Themes
+- Conference
+
+links:
+  - type: doi
+    url: https://doi.org/10.1109/codit62066.2024.10708510
+
 featured: false
 image:
   caption: ''

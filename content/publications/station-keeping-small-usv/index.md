@@ -15,7 +15,12 @@ peer_reviewed: true
 open_access: false
 summary: This paper presents the design and experimental evaluation of propulsion and station-keeping control strategies for small unmanned surface vehicles (USVs).
 tags:
-- Source Themes
+- Conference
+
+links:
+  - type: doi
+    url: https://doi.org/10.23919/sicefes67750.2025.11236710
+
 featured: false
 image:
   caption: ''

@@ -29,11 +29,11 @@ external_link: https://tasada038.github.io/devel-manta-walking/
 summary: Underwater robots can be categorized into bio-inspired, thruster-based, and legged systems. Among them, bio-inspired robots are attractive due to their high efficiency, mobility, and low noise characteristics. However, conventional manta ray robots excel in swimming but are limited in seafloor exploration.
 
 tags:
-- Source Themes
+- Journal
 featured: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""

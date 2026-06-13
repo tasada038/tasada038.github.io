@@ -18,7 +18,14 @@ peer_reviewed: true
 open_access: true
 summary: A robotic dolphin equipped with a multi-link body mechanism and CPG-based controller is evaluated through sim-to-real transfer, demonstrating effective swimming performance from simulation to physical deployment.
 tags:
-- Source Themes
+- Journal
+
+links:
+  - type: doi
+    url: https://doi.org/10.1109/ACCESS.2025.3624365
+  - type: pdf
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10967475
+
 featured: true
 image:
   caption: ''
