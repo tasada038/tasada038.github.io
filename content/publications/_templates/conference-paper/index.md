@@ -1,5 +1,5 @@
 ---
-title: 'conference-paper'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -53,7 +53,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Conference
 
 # Display this page in the Featured widget?
 featured: false
