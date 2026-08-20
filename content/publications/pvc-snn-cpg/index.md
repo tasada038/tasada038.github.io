@@ -15,6 +15,10 @@ publication:
   pages: "1150-1160"
 peer_reviewed: true
 open_access: true
+# license: CC-BY-4.0
+
+external_link: https://tasada038.github.io/devel-manta-walking/
+
 summary: Neurorobotics uses spiking neural networks to reproduce biological intelligence and behaviors, but neural-circuit-based obstacle avoidance for multi-jointed robots remains underexplored. This study proposes a neural-circuit-based obstacle avoidance architecture for robotic fish and systematically evaluates its fundamental performance under various conditions and physical environments.
 tags:
 - Journal
