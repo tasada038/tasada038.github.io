@@ -28,3 +28,10 @@ cd ~/GithubPage/tasada038.github.io/data/authors/
 cd ~/GithubPage/tasada038.github.io/assets/media/
 ```
 
+## Uses Academic-project-page-template
+If you uses academic-project-page-template, please setting bellow.
+
+```
+Settings > Pages > GitHub Pages / Branch
+master /root
+```
