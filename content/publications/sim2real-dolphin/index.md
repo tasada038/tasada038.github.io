@@ -16,6 +16,11 @@ publication:
   pages: "190304-190316"
 peer_reviewed: true
 open_access: true
+
+external_link: https://tasada038.github.io/sim2real-dolphin/
+
+
+
 summary: A robotic dolphin equipped with a multi-link body mechanism and CPG-based controller is evaluated through sim-to-real transfer, demonstrating effective swimming performance from simulation to physical deployment.
 tags:
 - Journal
