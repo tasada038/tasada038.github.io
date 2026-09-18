@@ -54,10 +54,11 @@ sections:
     content:
       title: Publications
       text: ''
+      count: 0   # Todo all view
       filters:
         folders:
           - publications
-        featured_only: true
+        # featured_only: true
     design:
       view: article-grid
       columns: 3

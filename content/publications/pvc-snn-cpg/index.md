@@ -6,7 +6,7 @@ authors:
 - Kenta Tabata
 - Renato Miyagusuku
 - Koichi Ozaki
-date: "2026-06-01T00:00:00Z"
+date: "2026-08-20T00:00:00Z"
 publishDate: "2026-06-20T00:00:00Z"
 publication_types: ["article-journal"]
 publication:

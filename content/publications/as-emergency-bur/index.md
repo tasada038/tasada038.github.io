@@ -1,12 +1,15 @@
 ---
-title: "Development of a Manta Ray Robot with Underwater Walking Function"
+title: "Motivation-based Action Selection and Emergence of Locomotion Behavior for BURs"
 authors:
 - me
 - Hideo Furuhashi
-date: "2024-09-14T00:00:00Z"
+- Kenta Tabata
+- Renato Miyagusuku
+- Koichi Ozaki
+date: "2026-09-16T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-15T00:00:00Z"
+publishDate: "2026-09-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,18 +18,18 @@ publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Ocean Engineering"
-  volume: 308
-  issue: 118261
+  name: "IEEE Robotics and Automation Letters"
+  # volume: 308
+  # issue: 118261
 
 peer_reviewed: true
 open_access: true
-# license: CC-BY-4.0
+license: CC-BY-4.0
 
-external_link: https://tasada038.github.io/devel-manta-walking/
+external_link: https://tasada038.github.io/as-emergence-bur/
 
 # Summary. An optional shortened abstract.
-summary: Underwater robots can be categorized into bio-inspired, thruster-based, and legged systems. Among them, bio-inspired robots are attractive due to their high efficiency, mobility, and low noise characteristics. However, conventional manta ray robots excel in swimming but are limited in seafloor exploration.
+summary: Conventional multifunctional BURs rely on explicitly programmed, task-level behaviors, limiting how flexibly actions are selected and how much behavioral diversity can emerge. This paper proposes a control system that integrates motivational states directly to motion primitives, with the dominant primitive selected for each joint via an element-wise maximum. Hybrid, multi-mode behaviors thereby emerge from the interaction of motivations, rather than from predefined rules. Physical experiments (slope traversal, a sedimentation basin, swimming, walking, crab-like gait, and bouncing gait) confirmed the approach, with a potential-method analysis showing a 15.6% improvement in energy cost per behavior over a conventional method.
 
 tags:
 - Journal
