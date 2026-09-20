@@ -59,11 +59,15 @@ education:
   #     text: Download dissertation
   #     url: /resume.pdf
   #     icon: hero/arrow-down-tray
-  - degree: Master of Electrical and Electronic Engineering
+  - degree: Doctor of Engineering (D.Eng.), in progress
+    institution: Utsunomiya University
+    start: 2025-04-01
+    end: 2027-03-31
+  - degree: Master of Engineering (M.Eng.)
     institution: Aichi Institude of Technology
     start: 2021-04-01
     end: 2023-03-31
-  - degree: Bachelor of Electronics and Information Engineering
+  - degree: Bachelor of Engineering (B.Eng.)
     institution: Aichi Institude of Technology
     start: 2017-04-01
     end: 2021-03-31
@@ -114,8 +118,62 @@ languages:
   #   label: Fluent
 
 awards:
-  - title: Best Paper Award
-    # awarder: NeurIPS
-    # date: "2022-12-01"
-    # summary: Awarded for groundbreaking work on efficient training of large models.
-    # icon: hero/trophy
+  - title: Yutaka Saito Scholarship, Utsunomiya University 3C Fund
+    awarder: Utsunomiya University
+    date: "2026-09"
+    summary: Awarded the Yutaka Saito Scholarship from the Utsunomiya University 3C Fund.
+    icon: hero/academic-cap
+
+  - title: Best Award, Freestyle Category, 8th Okinawa Ocean Robot Competition
+    awarder: Okinawa Ocean Robot Competition
+    date: "2022-11"
+    summary: Team AIT-BMR II (Aichi Institute of Technology) won the Best Award in the Freestyle Category.
+    icon: hero/trophy
+
+  - title: 1st Place, Biomimetic Category 1, Underwater Robot Convention in JAMSTEC 2022
+    awarder: Underwater Robot Convention in JAMSTEC
+    date: "2022-08"
+    summary: Team Black (Aichi Institute of Technology) took 1st place in the Biomimetic Category 1.
+    icon: hero/trophy
+
+  - title: Best Award, COBOTTA Idea Challenge
+    awarder: COBOTTA Idea Challenge
+    date: "2022-03"
+    summary: Crepe Project (Aichi Institute of Technology) won the Best Award.
+    icon: hero/trophy
+
+  - title: Winner, Free Category, Underwater Robot Convention in JAMSTEC 2021
+    awarder: Underwater Robot Convention in JAMSTEC
+    date: "2021-08"
+    summary: Team White α (Aichi Institute of Technology) won the Free Category.
+    icon: hero/trophy
+
+  - title: Winner, General Competition (Free Category), Underwater Robot Convention in JAMSTEC 2020
+    awarder: Underwater Robot Convention in JAMSTEC
+    date: "2020-12"
+    summary: AIT-MR III (Aichi Institute of Technology) won the General Competition (Free Category).
+    icon: hero/trophy
+
+  - title: Award of Excellence, Freestyle Category, 6th Okinawa Ocean Robot Competition
+    awarder: Okinawa Ocean Robot Competition
+    date: "2020-11"
+    summary: AIT-MR III (Aichi Institute of Technology) received the Award of Excellence in the Freestyle Category.
+    icon: hero/trophy
+
+  - title: Academic Achievement Scholarship / Excellent Academic Performance Scholarship
+    awarder: Aichi Institute of Technology
+    date: "2020-06"
+    summary: Selected as a scholarship recipient for academic achievement and outstanding grades.
+    icon: hero/academic-cap
+
+  - title: Academic Achievement Scholarship / Excellent Academic Performance Scholarship
+    awarder: Aichi Institute of Technology
+    date: "2019-06"
+    summary: Selected as a scholarship recipient for academic achievement and outstanding grades.
+    icon: hero/academic-cap
+
+  - title: MIZUWAKA-kai Scholarship
+    awarder: Aichi Institute of Technology
+    date: "2018-06"
+    summary: Selected as a MIZUWAKA-kai scholarship recipient.
+    icon: hero/academic-cap

@@ -92,5 +92,25 @@ sections:
       date_format: 'Jan 2006'
       is_education: false
 
+  - block: awards
+    content:
+      title: Awards
+      text: ''
+      filters:
+        folders:
+          - awards
+    design:
+      date_format: 'Jan 2006'
+      is_education: false
+
+  - block: markdown
+    content:
+      title: Grants-in-Aid and Scholarships
+      text: |
+        - **Research on Hybrid Control of a Multifunctional Multi-Joint Biomimetic Robot**
+          Japan Society for the Promotion of Science (JSPS), KAKENHI Grant-in-Aid for JSPS Fellows (Research Fellowship for Young Scientists)
+          Apr 2026 – Mar 2028 / Principal Investigator: Takumi Asada
+    design:
+      columns: '1'
 
 ---
