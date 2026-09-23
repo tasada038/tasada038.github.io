@@ -34,8 +34,8 @@ links:
     url: https://github.com/tasada038
   - icon: brands/youtube
     url: https://www.youtube.com/@tasada038
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/example/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/takumi-asada/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=q4g8WV4AAAAJ
   - icon: academicons/orcid
