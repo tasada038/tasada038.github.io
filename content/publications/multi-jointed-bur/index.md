@@ -29,7 +29,7 @@ license: CC-BY-4.0
 external_link: https://tasada038.github.io/multi-jointed-bur/
 
 # Summary. An optional shortened abstract.
-summary: Multimodal biomimetic underwater robots (BURs) combine swimming and legged locomotion for underwater exploration. Rule-based behavior selection limits new behavioral capabilities. We propose a mechanism and control system that expresses multimodal locomotion from the same multi-jointed structure: four leg-fins, each with four axes. A potential function generates nonlinear behavior from sensor modalities, enabling transitions between two or three behaviors.
+summary: Multimodal biomimetic underwater robots (BURs) combine swimming and legged locomotion for underwater exploration. Rule-based behavior selection limits new behavioral capabilities. We propose a mechanism and control system that expresses multimodal locomotion from the same multi-jointed structure four leg-fins, each with four axes. A potential function generates nonlinear behavior from sensor modalities, enabling transitions between two or three behaviors.
 
 tags:
 - Journal
